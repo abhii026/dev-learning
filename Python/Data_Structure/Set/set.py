@@ -22,7 +22,7 @@ print("Symmetric or s1^s2: ",sd)
 print("Symmetric or s1^s2: ",symmetric_diff)
 
 # OUTPUT:
-# Union or s1|s2:  {1, 2, 3, 4, 5, 6, 7, 8}     
+# Union or s1|s2:  {1, 2, 3, 4, 5, 6, 7, 8}
 # Difference or s1-s2:  {1, 2, 3}
-# Intersection or s1&s2:  {4, 5}      
-# Symmetric or s1^s2:  {1, 2, 3, 6, 7, 8} 
+# Intersection or s1&s2:  {4, 5}
+# Symmetric or s1^s2:  {1, 2, 3, 6, 7, 8}
