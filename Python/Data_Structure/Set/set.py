@@ -20,3 +20,9 @@ symmetric_diff=s1.symmetric_difference(s2)
 sd=s1^s2
 print("Symmetric or s1^s2: ",sd)
 print("Symmetric or s1^s2: ",symmetric_diff)
+
+# OUTPUT:
+# Union or s1|s2:  {1, 2, 3, 4, 5, 6, 7, 8}     
+# Difference or s1-s2:  {1, 2, 3}
+# Intersection or s1&s2:  {4, 5}      
+# Symmetric or s1^s2:  {1, 2, 3, 6, 7, 8} 
