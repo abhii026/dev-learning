@@ -12,8 +12,7 @@
 # case 2:
 # age=8
 # output:
-# Traceback (most recent call last):
-#   File "c:\Users\iabhi\OneDrive\Desktop\coding\Data_Engineer\Python\ExceptionHandling\RaiseError.py", line 3, in <module>
+# 
 #     raise ValueError("Your age must be between 10 and 18.")
 # ValueError: Your age must be between 10 and 18.
 
